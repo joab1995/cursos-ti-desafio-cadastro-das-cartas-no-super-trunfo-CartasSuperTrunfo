@@ -1,0 +1,24 @@
+int main() {
+    int populacao;
+    float area;
+    float pib;
+    int numeros de pontos turisticos
+    
+    printf("digite a populacao: \n");
+    scanf("%d" , populacao);
+    
+    printf("digite a area : \n");
+    scanf ("%f"area);
+
+    printf ("digite o pib : \n");
+    sacnf("%s" pib);
+
+    prinf("digite o numero de pontos tiristicos :\n");
+    scanf("%d" matricula);
+
+    prinf("cidade: %s")
+
+
+
+
+}
